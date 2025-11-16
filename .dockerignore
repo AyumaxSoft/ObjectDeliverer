@@ -1,0 +1,33 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Build output
+LinuxPackaged/
+Packaged/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Documentation
+README.md
+*.md
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
