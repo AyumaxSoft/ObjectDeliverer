@@ -1,5 +1,34 @@
 # ObjectDeliverer
 
+## ⚠️ Important Notice: Repository Archived
+
+**This repository has been archived and is now read-only.**
+
+Current status:
+- This open-source version is no longer actively maintained
+- The repository remains publicly accessible in read-only mode
+- You can continue to fork, clone, and use the code under the MIT License terms
+
+### For Continued Support and Updates
+
+If you wish to continue receiving updates and support, the commercial version is available on the Unreal Engine Marketplace:
+
+[Fab](https://www.fab.com/ja/listings/b6ffd7d7-80da-483f-a7fa-09cb46b72651)
+
+The commercial version includes:
+- Ongoing development and updates
+- Official support
+- Additional features
+
+### For Current Users
+
+If you plan to continue using this open-source version:
+- **Please fork or clone this repository for your own use**
+- All existing code remains available under the MIT License
+- You are free to maintain your own fork
+
+Thank you for your support and contributions to this project.
+
 ObjectDeliverer is a flexible data communication library for Unreal Engine. It's available for both C++ and Blueprint.
 
 ## Table of Contents
